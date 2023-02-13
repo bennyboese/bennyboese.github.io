@@ -1,0 +1,231 @@
+
+
+body{
+    background-color: #4750BB;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 900px;
+}
+
+.navigation{
+    background-color: #3a3f70;
+    padding: 10px;
+    max-width: 900px;
+    text-align: center;
+
+}
+
+.navigation a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    padding: 5px;
+}
+
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+a:active{
+    color: #fff;
+    text-decoration: underline;
+}
+
+
+.banner img{
+    max-height: 300px;
+    max-width: 900px;
+    margin-top: 5px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 65px;
+    text-align: center;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: left;
+}
+
+.showcase{
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.showcase img{
+    max-width: 900px;
+}
+
+
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: left;
+}
+
+.unterschrift{
+    margin-top: 15px;
+}
+
+.intro{
+    margin-bottom: 50px;
+}
+
+.anfrage{
+    display: flex;
+    gap: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+
+.persönliche_daten{
+    display: flex;
+    grid-template-columns: minmax(5px);
+    gap: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+.persönliche_daten_2{
+    display: flex;
+    margin-left: 0px;
+    grid-template-columns: minmax(5px);
+    gap: 5px;
+}
+
+.räume{
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.räume img{
+    max-width: 900px;
+    min-width: 900px;
+}
+
+.center{
+    margin-top: 20px;
+    margin-bottom: 250px;
+}
+
+.center li{
+    padding-left: 220px;
+    margin-top: 15px;
+}
+
+.aktivität{
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.aktivität img{
+    max-width: 900px;
+}
+
+.aktivität2 img{
+    max-width: 900px;
+    min-width: 900px;
+}
+
+.team img{
+    max-width: 900px;
+}
+
+.anfahrt{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.anfahrt img{
+    max-width: 900px;
+    min-width: 900px;
+}
+
+.kalender{
+    display: flex;
+    gap: 15px;
+}
+
+.datum{
+    display: flex;
+    gap: 50px;
+}
+
+.datum h3{
+    text-align: left;
+    display: flex;
+}
+
+.datum_2{
+    display: flex;
+    gap: 80px;
+}
+
+
+.kalender_2{
+    display: flex;
+    gap: 15px;
+}
+
+.gebucht{
+   text-decoration: line-through;
+   color: #D6D6D6;
+}
+
+
+
+.footer{
+    background-color: #3a3f70;
+    padding: 10px;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 0px;
+}
